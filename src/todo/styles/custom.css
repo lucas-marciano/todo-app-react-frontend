@@ -6,3 +6,11 @@
 .btn {
     margin-right: 5px;
 }
+
+.table_actions{
+    width: 105px;
+}
+
+.todo_form{
+    padding-bottom: 60px;
+}
