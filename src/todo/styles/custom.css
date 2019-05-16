@@ -1,0 +1,8 @@
+.done {
+    text-decoration: line-through;
+    opacity: .7;
+}
+
+.btn {
+    margin-right: 5px;
+}
